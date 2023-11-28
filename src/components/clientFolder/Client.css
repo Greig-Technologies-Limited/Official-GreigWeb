@@ -1,0 +1,45 @@
+.clients {
+    width: 100%;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    background: #F7F7F7;
+}
+
+.clientsContainer {
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 0 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.heading {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.heading h1 {
+    font-size: 40px;
+    font-weight: 500;
+}
+.heading hr {
+    border: none;
+    width: 80px;
+    height: 2px;
+    background-color: green;
+    margin-top: .5rem;
+    margin-bottom: 1.5rem;
+}
+.clientsImg {
+    width: 80%;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+.clientsImg img {
+    width: 150px;
+    margin-left: 2rem;
+    margin-bottom: 3rem;
+    align-self: center;
+}

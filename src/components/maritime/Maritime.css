@@ -1,0 +1,29 @@
+.mariT {
+  width: 100%;
+  padding-top: 8rem;
+}
+.maricontainer {
+  max-width: 1300px;
+  margin: 0 auto;
+}
+.maricontent {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.maricontent hr {
+  border-bottom: 1px solid green;
+  margin-top: -9px;
+  margin-bottom: 1rem;
+  width: 65px;
+  height: 0;
+}
+.maricontent p {
+  font-size: 15px;
+  margin-bottom: 1.5rem;
+}
+.maricontent img {
+  width: 750px;
+  margin-bottom: 1.5rem;
+}

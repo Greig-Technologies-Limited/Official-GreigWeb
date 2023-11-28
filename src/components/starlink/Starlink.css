@@ -1,0 +1,29 @@
+.StarT {
+  width: 100%;
+  padding-top: 8rem;
+}
+.starcontainer {
+  max-width: 1300px;
+  margin: 0 auto;
+}
+.starcontent {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.starcontent hr {
+  border-bottom: 1px solid green;
+  margin-top: -9px;
+  margin-bottom: 1rem;
+  width: 65px;
+  height: 0;
+}
+.starcontent p {
+  font-size: 15px;
+  margin-bottom: 1.5rem;
+}
+.starcontent img {
+  width: 850px;
+  margin-bottom: 1.5rem;
+}

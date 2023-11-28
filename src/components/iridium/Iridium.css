@@ -1,0 +1,29 @@
+.iridium {
+  width: 100%;
+  padding-top: 8rem;
+}
+.iridiumcontainer {
+  max-width: 1300px;
+  margin: 0 auto;
+}
+.iridiumcontent {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.iridiumcontent hr {
+  border-bottom: 1px solid green;
+  margin-top: -9px;
+  margin-bottom: 1rem;
+  width: 65px;
+  height: 0;
+}
+.iridiumcontent p {
+  font-size: 15px;
+  margin-bottom: 1.5rem;
+}
+.iridiumcontent img {
+  width: 850px;
+  margin-bottom: 1.5rem;
+}

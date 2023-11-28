@@ -1,0 +1,65 @@
+.service {
+    width: 100%;
+    padding-top: 3rem;
+    background: white;
+}
+.serviceContainer {
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 25px 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.serviceContainer h1 {
+    font-size: 40px;
+    font-weight: 500;
+}
+.serviceContainer hr {
+    border: none;
+    width: 80px;
+    height: 2px;
+    background-color: green;
+    margin-bottom: 1.5rem;
+}
+.serviceContainer p {
+    font-size: 16px;
+    font-weight: 300;
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+
+.serviceChildHolder {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin-top: 2rem;
+}
+
+.serviceChild {
+    width: 50%;
+    margin-left: 2rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.serviceChildContent {
+    width: 90%;
+    margin-left: .5rem;
+}    
+.serviceChildContent h4 {
+    font-size: 22px;
+    font-weight: 500;
+    margin-left: .5rem;
+    padding-bottom: 1rem;
+}
+.serviceChildContent p {
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 25px;
+    letter-spacing: .4px;
+    text-align: left;
+    margin-left: .5rem;
+}

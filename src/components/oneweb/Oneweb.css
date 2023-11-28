@@ -1,0 +1,44 @@
+.oneWac {
+  width: 100%;
+  padding-top: 8rem;
+}
+.oneWaccontainer {
+  max-width: 1300px;
+  margin: 0 auto;
+}
+.oneWacContent {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.oneWacContent hr {
+  border-bottom: 1px solid green;
+  margin-top: -9px;
+  margin-bottom: 1rem;
+  width: 65px;
+}
+.oneWacContent p {
+  font-size: 15px;
+  margin-bottom: 1.5rem;
+}
+.oneWacContent img {
+  margin-bottom: 1.5rem;
+  width: 850px;
+}
+
+.below {
+  display: flex;
+  flex-direction: row;
+}
+.belowLeft {
+  width: 50%;
+  margin-right: 3rem;
+  margin-bottom: 1rem;
+}
+.belowRight {
+  margin-bottom: 1rem;
+}
+.belowRight h1 {
+  font-size: 20px;
+}

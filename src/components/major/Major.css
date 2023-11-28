@@ -1,0 +1,28 @@
+.major {
+    width: 100%;
+    background-color: black;
+}
+.majorContainer {
+    max-width: 1300px;
+    margin: 0 auto;
+    padding: 25px 30px;
+}
+.childHolder {
+    display: flex;
+}
+.child {
+    width: 80%;
+    margin-left: 1.5rem;
+}
+.child h1 {
+    font-size: 20px;
+    font-weight: 500;
+    color: #fff;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.child p {
+    font-size: 15px;
+    font-weight: 300;
+    color: #fff;
+}
