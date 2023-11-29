@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Greig-Technologies-Limited/Official-GreigWeb.git/static/css/main.207e30b7.css",
+    "main.js": "/Greig-Technologies-Limited/Official-GreigWeb.git/static/js/main.e2bd8ca7.js",
+    "static/media/World_map_blank_without_borders.svg.png": "/Greig-Technologies-Limited/Official-GreigWeb.git/static/media/World_map_blank_without_borders.svg.c32a7c7e88a53464f394.png",
+    "static/media/one1.jpeg": "/Greig-Technologies-Limited/Official-GreigWeb.git/static/media/one1.e8c7051b41dcded82d1c.jpeg",
+    "static/media/fleetB.jpeg": "/Greig-Technologies-Limited/Official-GreigWeb.git/static/media/fleetB.3dae3c39d1973d74276b.jpeg",
+    "static/media/10.png": "/Greig-Technologies-Limited/Official-GreigWeb.git/static/media/10.750ae5d8321dd41a423b.png",
+    "static/media/iridium.webp": "/Greig-Technologies-Limited/Official-GreigWeb.git/static/media/iridium.9a1c3d9b92786a0d10cb.webp",
+    "static/media/one.jpeg": "/Greig-Technologies-Limited/Official-GreigWeb.git/static/media/one.2ef232451ecbc3a7d754.jpeg",
+    "static/media/mari2.avif": "/Greig-Technologies-Limited/Official-GreigWeb.git/static/media/mari2.86b4d19b0265d641fe1b.avif",
+    "static/media/about-vision.jpg": "/Greig-Technologies-Limited/Official-GreigWeb.git/static/media/about-vision.bae2b434cdf57ffc98ab.jpg",
+    "static/media/about-mission.jpg": "/Greig-Technologies-Limited/Official-GreigWeb.git/static/media/about-mission.d1d7c554e04d44c91548.jpg",
+    "static/media/itC.jpeg": "/Greig-Technologies-Limited/Official-GreigWeb.git/static/media/itC.4a4428701361157d52cf.jpeg",
+    "static/media/Greig_Tech_Variation_B-removebg-edited.png": "/Greig-Technologies-Limited/Official-GreigWeb.git/static/media/Greig_Tech_Variation_B-removebg-edited.32d1b7e3fc5c531fd431.png",
+    "static/media/about-plan.jpg": "/Greig-Technologies-Limited/Official-GreigWeb.git/static/media/about-plan.c0f51c0f815c396221e7.jpg",
+    "static/media/Starlink_Logo.svg.png": "/Greig-Technologies-Limited/Official-GreigWeb.git/static/media/Starlink_Logo.svg.9d7726d700fde5838a60.png",
+    "static/media/OneWeb_Logo.png": "/Greig-Technologies-Limited/Official-GreigWeb.git/static/media/OneWeb_Logo.9c501a0063bb525710f7.png",
+    "static/media/consultant.webp": "/Greig-Technologies-Limited/Official-GreigWeb.git/static/media/consultant.cbafcfe070334dcfa26c.webp",
+    "static/media/comtech.png": "/Greig-Technologies-Limited/Official-GreigWeb.git/static/media/comtech.c034db2e55ed8ccd814d.png",
+    "static/media/intellian.png": "/Greig-Technologies-Limited/Official-GreigWeb.git/static/media/intellian.79f1f09a180a63277b91.png",
+    "static/media/Cisco_Meraki_website.jpg": "/Greig-Technologies-Limited/Official-GreigWeb.git/static/media/Cisco_Meraki_website.564444802a99a67ab9a9.jpg",
+    "static/media/maritime.jpeg": "/Greig-Technologies-Limited/Official-GreigWeb.git/static/media/maritime.540add42421e9152b18a.jpeg",
+    "index.html": "/Greig-Technologies-Limited/Official-GreigWeb.git/index.html",
+    "main.207e30b7.css.map": "/Greig-Technologies-Limited/Official-GreigWeb.git/static/css/main.207e30b7.css.map",
+    "main.e2bd8ca7.js.map": "/Greig-Technologies-Limited/Official-GreigWeb.git/static/js/main.e2bd8ca7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.207e30b7.css",
+    "static/js/main.e2bd8ca7.js"
+  ]
+}
