@@ -103,3 +103,16 @@ form textarea::placeholder {
     font-size: 15px;
     font-family: 'poppins';
 }
+
+@media screen and (max-width:760px) {
+    .contactDetails {
+        display: flex;
+        flex-direction: column;
+    }
+    .options {
+        width: 80%;
+        border-right: none;
+        border-bottom: 1px solid rgba(0, 128, 0, 0.352);
+        margin-bottom: 1rem;
+    }
+}

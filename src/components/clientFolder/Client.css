@@ -43,3 +43,17 @@
     margin-bottom: 3rem;
     align-self: center;
 }
+
+@media screen and (max-width:760px) {
+    .heading h1 {
+        font-size: 30px;
+    }
+    .heading hr {
+        margin-bottom: 5rem;
+    }
+    .clientsImg {
+        width: 80%;
+        display: grid;
+        grid-template-columns: auto auto;
+    }
+}

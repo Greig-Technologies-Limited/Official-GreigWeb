@@ -42,3 +42,26 @@
 .belowRight h1 {
   font-size: 20px;
 }
+
+@media screen and (max-width:760px) {
+  p {
+    margin-left: 1rem;
+  }
+  .below {
+    display: flex;
+    flex-direction: column;
+  }
+  .belowLeft {
+    width: 100%;
+    margin-right: 3rem;
+    margin-bottom: 1rem;
+  }
+  .belowRight {
+    width: 100%;
+    margin-left: 3rem;
+    margin-bottom: 1rem;
+  }
+  .oneWacContent img {
+    width: 100% ;
+  }
+}

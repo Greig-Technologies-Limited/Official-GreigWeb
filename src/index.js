@@ -4,17 +4,19 @@ import './index.css';
 import App from './App';
 
 
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter, Routes, Route } from 'react-router-dom';
 import OnewebPage from './routes/OnewebPage';
 import StarlinkPage from './routes/StarlinkPage';
 import MaritimePage from './routes/MaritimePage';
 import IridiumPage from './routes/IridiumPage';
 import FleetBBPage from './routes/FleetBBPage';
 import ItconsultPage from './routes/ItconsultPage';
+import ScrollToTop from './components/ScrollToTop';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <BrowserRouter>
+  <HashRouter>
+    <ScrollToTop />
     <Routes>
       <Route path="/" element={<App />}/>
       <Route path="/OnewebPage" element={<OnewebPage />}/>
@@ -24,7 +26,7 @@ root.render(
       <Route path='/FleetBBPage' element={<FleetBBPage/>}/>
       <Route path='/ItconsultPage' element={<ItconsultPage/>}/>
     </Routes>
-  </BrowserRouter>
+  </HashRouter>
 
 
 

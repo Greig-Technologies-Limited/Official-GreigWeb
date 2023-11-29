@@ -94,6 +94,23 @@
     .navbar button {
         font-size: 1.8rem;
     }
+}
 
-
+@media screen and (max-width:760px) {
+    .navbar {
+        background-color: #000;
+    }
+    .navbar .hamburger {
+        color: #fff;
+        transition: .2s ease-in-out;
+    }
+    .navbar .hamburger:hover {
+        color: green;
+    }
+    .navbar .nav-menu a {
+        color: #ffffffcf;
+    }
+    .navbar .nav-menu a:hover {
+        color: green;
+    }
 }

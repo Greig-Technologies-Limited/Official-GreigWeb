@@ -82,6 +82,7 @@
 }
 .conFour img {
   width: 150px;
+  margin-right: 1rem;
 }
 .footer .line {
   border: 1px solid green;
@@ -97,4 +98,22 @@
   align-items: center;
   padding-top: 1rem;
   padding-bottom: 1rem;
+}
+
+@media screen and (max-width:760px) {
+  .footerContainer {
+    display: flex;
+    flex-direction: column;
+  }
+  .conOne {
+    width: 70%;
+    margin-left: 2rem;
+  }
+  .conTwo {
+    width: 50%;
+  }
+  .conThree {
+    width: 60%;
+    margin-left: 2rem;
+  }
 }

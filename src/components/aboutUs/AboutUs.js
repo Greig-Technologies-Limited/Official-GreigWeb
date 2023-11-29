@@ -30,7 +30,7 @@ const AboutUs = () => {
                     </div>
                 </div>
                 <div className="aboutChild">
-                    <div className="childTop"></div>
+                    <div className="childTop1"></div>
                     <div className="childBottom">
                         <div className="iconHold">
                             <IoSunnySharp size={30} style={{ color: 'white' }} />
@@ -42,7 +42,7 @@ const AboutUs = () => {
                     </div>
                 </div>
                 <div className="aboutChild">
-                    <div className="childTop"></div>
+                    <div className="childTop2"></div>
                     <div className="childBottom">
                         <div className="iconHold">
                             <FaCalendarAlt size={30} style={{ color: 'white' }} />

@@ -27,3 +27,8 @@
   width: 850px;
   margin-bottom: 1.5rem;
 }
+
+@media screen and (max-width: 760px) {
+  .iridiumcontent img {
+    width: 100%; }
+}
