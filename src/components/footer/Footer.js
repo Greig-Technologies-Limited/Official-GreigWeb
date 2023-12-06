@@ -1,5 +1,6 @@
 import React from 'react'
 import './Footer.css'
+import { Link as ScrollLink } from 'react-scroll';
 // import MyLogo from '../../assets/10.png'
 import { FaXTwitter } from "react-icons/fa6";
 import { CiLinkedin } from "react-icons/ci";
@@ -30,9 +31,9 @@ const Footer = () => {
           <h2>Useful Links</h2>
           <hr />
           <ul>
-            <li><span> > </span>Home</li>
-            <li><span> > </span>Service</li>
-            <li><span> > </span>About</li>
+            <li><span> > </span><ScrollLink to='slider' smooth={true} duration={500}>Home</ScrollLink></li>
+            <li><span> > </span><ScrollLink to='service' smooth={true} duration={500}>Service</ScrollLink></li>
+            <li><span> > </span><ScrollLink to='about' smooth={true} duration={500}>About</ScrollLink></li>
             <li><span> > </span>Terms & Conditions</li>
             <li><span> > </span>Privacy</li>
           </ul>
@@ -40,8 +41,8 @@ const Footer = () => {
         <div className="conThree">
           <h2>About Us</h2>
           <hr />
-          <p>10 Anuoluwapo, Agbaoku Estate, Off Awoshika BusStop</p>
-          <p>+234 8013 344 538</p>
+          <p>10 Anuoluwapo Close off Opebi Road Ikeja Lagos.</p>
+          <p>+234 803 265 2425</p>
           <p>info@greigtechnologies.com</p>
 
           <a href="/"><FiGithub size={20} /></a>

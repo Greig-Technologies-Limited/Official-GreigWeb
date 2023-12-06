@@ -28,7 +28,7 @@ const Contact = () => {
                         <MdOutlineSignalCellularAlt size={30} style={{ color: 'white' }} />
                     </div>
                     <h4>Locate Us</h4>
-                    <p>10 Anuoluwapo, Agbaoku Estate, Off Awoshika BusStop</p>
+                    <p>10 Anuoluwapo Close off Opebi Road Ikeja Lagos.</p>
                 </div>
             </div>
             <form>

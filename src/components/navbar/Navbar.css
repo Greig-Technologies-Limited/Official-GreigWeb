@@ -3,7 +3,7 @@
     height: 100px;
     position: fixed;
     z-index: 10;
-    background: #ffffffa7;
+    background: #000;
     margin-bottom: 1rem;
 }
 
@@ -24,7 +24,7 @@
 }
 
 .navbar .logo .logoImg img {
-    width: 250px;
+    width: 200px;
 }
 .navbar .logo img {
     width: 500px;
@@ -51,11 +51,16 @@
 .navbar li {
     padding: 1rem;
     font-weight: 600;
-    color: #000;
+    color: #ffffffc5;
+    cursor: pointer;
+}
+.navbar li:hover {
+    color: green;
 }
 .navbar li a {
     color: var(--primary-color);
     font-size: 24px;
+    cursor: pointer;
 }
 
 .navbar .icon {
@@ -112,5 +117,8 @@
     }
     .navbar .nav-menu a:hover {
         color: green;
+    }
+    .navbar .logo .logoImg img {
+        width: 150px;
     }
 }

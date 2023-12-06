@@ -8,6 +8,7 @@ import Navbar from "./components/navbar/Navbar";
 import Service from "./components/serviceSec/Service";
 import Slider from "./components/slider/Slider";
 
+
 function App() {
   return (
     <div className="App">

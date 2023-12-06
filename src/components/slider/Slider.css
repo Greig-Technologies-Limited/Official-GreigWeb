@@ -112,7 +112,10 @@
   @media screen and (max-width: 760px) {
     .slider {
       height: 38vh;
-      padding-top: 4rem;
+      top: 5rem;
+    }
+    .slide image {
+      height: 100%;
     }
     .content {
       width: 80%;
