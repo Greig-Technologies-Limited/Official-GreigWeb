@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Official-GreigWeb/static/css/main.6be81313.css",
-    "main.js": "/Official-GreigWeb/static/js/main.d5756830.js",
+    "main.css": "/Official-GreigWeb/static/css/main.b69c5f9e.css",
+    "main.js": "/Official-GreigWeb/static/js/main.30742692.js",
     "static/media/World_map_blank_without_borders.svg.png": "/Official-GreigWeb/static/media/World_map_blank_without_borders.svg.c32a7c7e88a53464f394.png",
     "static/media/one1.jpeg": "/Official-GreigWeb/static/media/one1.e8c7051b41dcded82d1c.jpeg",
     "static/media/fleetB.jpeg": "/Official-GreigWeb/static/media/fleetB.3dae3c39d1973d74276b.jpeg",
@@ -22,11 +22,11 @@
     "static/media/Cisco_Meraki_website.jpg": "/Official-GreigWeb/static/media/Cisco_Meraki_website.564444802a99a67ab9a9.jpg",
     "static/media/maritime.jpeg": "/Official-GreigWeb/static/media/maritime.540add42421e9152b18a.jpeg",
     "index.html": "/Official-GreigWeb/index.html",
-    "main.6be81313.css.map": "/Official-GreigWeb/static/css/main.6be81313.css.map",
-    "main.d5756830.js.map": "/Official-GreigWeb/static/js/main.d5756830.js.map"
+    "main.b69c5f9e.css.map": "/Official-GreigWeb/static/css/main.b69c5f9e.css.map",
+    "main.30742692.js.map": "/Official-GreigWeb/static/js/main.30742692.js.map"
   },
   "entrypoints": [
-    "static/css/main.6be81313.css",
-    "static/js/main.d5756830.js"
+    "static/css/main.b69c5f9e.css",
+    "static/js/main.30742692.js"
   ]
 }
