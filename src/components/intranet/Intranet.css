@@ -1,0 +1,128 @@
+.intranet {
+    width: 100%;
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+}
+.intranetContainer {
+    max-width: 1300px;
+    margin: 0 auto;
+}
+.client {
+    background: #fff;
+    padding: 20px;
+    border: none;
+    border-radius: 15px;
+    margin-bottom: 3rem;
+    -webkit-box-shadow: -1px 1px 5px 6px rgba(0, 0, 0, 0.089);
+    -moz-box-shadow: -1px 1px 5px 6px rgba(0,0,0,0.089);
+    box-shadow: -1px 1px 5px 6px rgba(0,0,0,0.089);
+    transition: .5s ease-in-out;
+}
+
+.client:hover {
+    transform: scale(1.1);
+}
+.client h1 {
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 2rem;
+    color: #000000ce;
+}
+
+.detail {
+    margin: 0 auto;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-self: center;
+    margin-bottom: 1.5rem;
+    /* border-bottom: 1px solid rgba(0, 128, 0, 0.454); */
+}
+.detail p {
+    color: #000000ce;
+}
+.detail a {
+    cursor: pointer;
+    width: 20%;
+    border: 1px solid green;
+    padding: 5px;
+    text-align: center;
+    border-radius: 10px;
+    transition: .2s ease-in-out;
+}
+.detail a:hover {
+    background: rgba(0, 128, 0, 0.308);
+    transform: scale(1.1);
+    color: #fff;
+}
+
+hr {
+    width: 75%;
+    margin: 0 auto;
+    color: rgba(128, 128, 128, 0.082);
+    margin-top: 0;
+    margin-bottom: 1em;
+}
+
+@media screen and (max-width:760px) {
+    .detail a {
+        cursor: pointer;
+        width: 20%;
+        font-weight: 600;
+        /* text-size-adjust: none; */
+        font-size: 7.7px;
+        border: 1px solid green;
+        padding: 3.5px;
+        text-align: center;
+        border-radius: 10px;
+        /* padding-top: 5px; */
+        transition: .2s ease-in-out;
+    }
+    .detail a:hover {
+        background: rgba(0, 128, 0, 0);
+        transform: scale(1.0);
+        color: #fff;
+    }
+
+    .detail p {
+        color: #000000ce;
+        font-size: 12.5px;
+        font-weight: 600;
+    }
+
+    .detail {
+        display: flex;
+    }
+
+    .client {
+        background: #fff;
+        padding: 10px;
+        border: none;
+        border-radius: 7.5px;
+        margin-bottom: 1.5rem;
+        -webkit-box-shadow: -1px 1px 5px 6px rgba(0, 0, 0, 0.089);
+        -moz-box-shadow: -1px 1px 5px 6px rgba(0,0,0,0.089);
+        box-shadow: -1px 1px 5px 6px rgba(0,0,0,0.089);
+        transition: 0.2 ease-in-out;
+    }
+    
+    .client:hover {
+        transform: scale(1.1);
+    }
+    .client h1 {
+        font-size: 15px;
+        text-align: center;
+        margin-bottom: 1rem;
+        color: #000000ce;
+    }
+    .intranet {
+        width: 70%;
+        margin: 0 auto;
+        padding-top: 10rem;
+        padding-bottom: 10rem;
+    }
+    hr {
+        background-color: rgba(128, 128, 128, 0);
+    }
+
+}

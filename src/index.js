@@ -12,6 +12,7 @@ import IridiumPage from './routes/IridiumPage';
 import FleetBBPage from './routes/FleetBBPage';
 import ItconsultPage from './routes/ItconsultPage';
 import ScrollToTop from './components/ScrollToTop';
+import Sentinel from './routes/Sentinel';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -25,6 +26,7 @@ root.render(
       <Route path='/IridiumPage' element={<IridiumPage/>}/>
       <Route path='/FleetBBPage' element={<FleetBBPage/>}/>
       <Route path='/ItconsultPage' element={<ItconsultPage/>}/>
+      <Route path='/Sentinel' element={<Sentinel/>}/>
     </Routes>
   </HashRouter>
 

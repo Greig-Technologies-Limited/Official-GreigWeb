@@ -10,7 +10,7 @@ const Oneweb = () => {
           <h1>One<span>Web</span></h1>
           <hr />
           <p>
-          With OneWeb’s we bring fibre-like speeds to maritime connectivity. With OneWeb’s low latency, connection at sea is every bit as fast, flexible and secure as on land. Information becomes available in real-time supporting performance monitoring tracking and much more. Integrated in Castor Marine’s Voyager client portal, OneWeb stands for improved efficiency, sustainability and profitability.
+          With OneWeb we bring fibre-like speeds to maritime connectivity. With OneWeb low latency, connection at sea is every bit as fast, flexible and secure as on land. Information becomes available in real-time supporting performance monitoring tracking and much more. In Greig Technologies Limited, OneWeb stands for improved efficiency, sustainability and profitability.
           </p>
           <img src={One} alt="" />
 

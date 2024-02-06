@@ -97,7 +97,7 @@ const Service = () => {
             <div className="serviceChildContent">
               <Link to='/OnewebPage'><h4>Oneweb</h4></Link>
               <p>
-                With OneWeb’s we bring fibre-like speeds to maritime connectivity. With OneWeb’s low latency, connection at....
+                With OneWeb we bring fibre-like speeds to maritime connectivity. With OneWeb’s low latency, connection at....
               </p>
             </div>
           </motion.div>
@@ -127,7 +127,7 @@ const Service = () => {
             <div className="serviceChildContent">
               <Link to='MaritimePage'><h4>Maritime VSAT</h4></Link>
               <p>
-                Experience unlimited usage and reliable Maritime VSAT internet with Castor Marine. Our High Speed VSAT....
+                Experience unlimited usage and reliable Maritime VSAT internet with Greig Technologies Limited. Our High Speed VSAT....
               </p>
             </div>
           </motion.div>

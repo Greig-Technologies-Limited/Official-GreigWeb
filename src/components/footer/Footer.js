@@ -42,7 +42,7 @@ const Footer = () => {
           <h2>About Us</h2>
           <hr />
           <p>10 Anuoluwapo Close off Opebi Road Ikeja Lagos.</p>
-          <p>+234 803 265 2425</p>
+          <p>+234 814 7024 765, +234 020 1634 0450.</p>
           <p>info@greigtechnologies.com</p>
 
           <a href="/"><FiGithub size={20} /></a>
@@ -60,8 +60,7 @@ const Footer = () => {
       </div>
       <hr className='line' />
       <div className="copyright">
-        <p> @{new Date().getFullYear()} Shęriff & Cifra. All rights reserved.</p>
-        <h3 className='mylogo'> <img src={MyLogo} style={{width: '30px'}} alt="" /> </h3>
+        <p> @{new Date().getFullYear()} Greig Technologies Limited. All rights reserved.</p>
       </div>
     </div>
   )

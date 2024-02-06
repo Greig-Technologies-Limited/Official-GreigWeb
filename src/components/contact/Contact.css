@@ -103,6 +103,16 @@ form textarea::placeholder {
     font-size: 15px;
     font-family: 'poppins';
 }
+form button {
+    background-color: green;
+    color: #fff;
+    transition: .2s ease-in-out;
+}
+form button:hover {
+    background-color: #fff;
+    color: green;
+    border: 1px solid green;
+}
 
 @media screen and (max-width:760px) {
     .contactDetails {
